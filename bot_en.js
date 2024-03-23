@@ -2,8 +2,8 @@
  * https://github.com/cvzi/telegram-bot-cloudflare
  */
 
-const TOKEN = '5734039029:AAEedvweUgHvsHaw5Ulod-pp2mfvUlMOKQvo' // Get it from @BotFather https://core.telegram.org/bots#6-botfather
-const ADMIN = 5679710243 //// Get it from @chatIDrobot
+const TOKEN = '7083235185:AAGikk5fdycs4GO6AJK0fi_JyR9mR77eBlc' // Get it from @BotFather https://core.telegram.org/bots#6-botfather
+const ADMIN = 1495973057 //// Get it from @chatIDrobot
 /**
  * Wait for requests to the worker
  */
